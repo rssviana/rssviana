@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ4M2NnMmhtbmdwdTNiMTBwbnpuYW5qd21ubGVubzRjc21qZWJ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3CeSrt9IZ6aorWCy1/giphy.gif" width="300" alt="funny gif" />
+![Header Hero](https://github.com/rssviana/rssviana/blob/main/readme-hero.jpeg?raw=true)
 
 <h1 align="center">🐲 Ronan Viana</h1>
 
