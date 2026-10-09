@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Oraculum Manager">
+  <rect width="64" height="64" rx="14" fill="#f8f8f8"/>
+  <g transform="translate(6 6) scale(0.52)">
+    <path fill="#232323" fill-rule="evenodd" d="M50 8a42 42 0 1 0 0 84a42 42 0 1 0 0-84ZM50 14a30 36 0 1 1 0 72a30 36 0 1 1 0-72Z"/>
+    <rect fill="#232323" x="30" y="30" width="40" height="2.6"/>
+    <rect fill="#232323" x="33" y="36.5" width="9" height="25" rx="1.6"/>
+    <rect fill="#1c6743" x="45.5" y="36.5" width="9" height="34" rx="1.6"/>
+    <rect fill="#232323" x="58" y="36.5" width="9" height="16" rx="1.6"/>
+  </g>
+</svg>

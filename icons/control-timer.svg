@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Control Timer">
+  <rect width="64" height="64" rx="14" fill="#1f2937"/>
+  <rect x="27" y="7" width="10" height="5" rx="2" fill="#e5e7eb"/>
+  <rect x="30.5" y="11" width="3" height="5" fill="#e5e7eb"/>
+  <circle cx="32" cy="36" r="19" fill="none" stroke="#e5e7eb" stroke-width="4"/>
+  <path d="M32 36 L32 23 A13 13 0 0 1 43.3 29.5 Z" fill="#f59e0b"/>
+  <circle cx="32" cy="36" r="2.6" fill="#e5e7eb"/>
+  <rect x="46" y="15" width="5" height="4" rx="1.5" fill="#e5e7eb" transform="rotate(45 48.5 17)"/>
+</svg>
