@@ -35,6 +35,16 @@
 <h3 align="center">Live Projects:</h3>
 <table align="center">
   <tr>
+    <td><a href="https://github.com/rssviana/fala-que-eu-transcrevo" target="blank"><img src="https://raw.githubusercontent.com/rssviana/fala-que-eu-transcrevo/main/assets/brand/icon.svg" width="32" height="32" alt="Fala que eu transcrevo!" /></a></td>
+    <td><strong>Fala que eu transcrevo!</strong></td>
+    <td><a href="https://github.com/rssviana/fala-que-eu-transcrevo" target="blank">desktop app · Windows, macOS, Linux</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://relax-farming.web.app" target="blank"><img src="https://relax-farming.web.app/favicon.svg" width="32" height="32" alt="Relax Farming" /></a></td>
+    <td><strong>Relax Farming</strong></td>
+    <td><a href="https://relax-farming.web.app" target="blank">relax-farming.web.app</a></td>
+  </tr>
+  <tr>
     <td><a href="https://oraculum-manager.web.app" target="blank"><img src="https://raw.githubusercontent.com/rssviana/rssviana/main/icons/oraculum-manager.svg" width="32" height="32" alt="Oraculum Manager" /></a></td>
     <td><strong>Oraculum Manager</strong></td>
     <td><a href="https://oraculum-manager.web.app" target="blank">oraculum-manager.web.app</a></td>
